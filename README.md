@@ -14,14 +14,14 @@ Syntax:
  'info' contains information of the data.
  note: the files 'mydata.sin', 'mydata.lab', 'mydata.raw' should be all existing.
 
-remarks:
+Remarks:
 For special scans, you may need to slightly modify the program to run it through. The special scans include:
   CoilSurveyScan
   SenseRefScan
   Spectroscopy Scan
   None Cartesian Scan
 
-But do not hesitate to try, modification will be quite trival.
+MATLAB Version: 8.0.0.783 (R2012b)
 
 Contact:
 Chenguang Zhao, Philips Healthcare (Suzhou) MR
