@@ -1,0 +1,334 @@
+ CAUTION - Investigational device
+ Limited by Federal Law to investigational use.
+
+ File names of SENSE reference data:
+
+ 1 0 0: coca_cpx_file_names          : 20171018_022708_SenseRefScan.cpx
+ 1 0 0: coca_rc_file_names           : 20171018_022708_SenseRefScan.rc 
+
+ Internal reconstruction parameters:
+ 
+ Reconstruction parameters independent of mix, echo and location:
+ 
+ 00 00 00: scan_name                    : T1W_FFE_SF2
+ 00 00 00: start_scan_date_time         : 18-OCT-2017 02:46:06.22
+ 00 00 00: recon_command                :           18
+ 00 00 00: force_immed_zrecon_flag      :            1
+ 00 00 00: nr_mixes                     :            1
+ 00 00 00: total_nr_profiles            :        11160
+ 00 00 00: min_nrs_profs_each_side      :            0            8            0            0
+ 00 00 00: min_nrs_profs_total          :            0           39            0            0
+ 00 00 00: data_rate                    :        93375
+ 00 00 00: data_burst_size              :        19920
+ 00 00 00: input_buffer_fraction        :       0.0000
+ 00 00 00: min_data_compress_factor     :            1
+ 00 00 00: max_data_compress_factor     :            4
+ 00 00 00: min_def_window_perc          :       0.1000
+ 00 00 00: max_def_window_perc          :      99.9000
+ 00 00 00: min_def_window_perc_range    :       7.0000
+ 00 00 00: min_normalized_image_perc    :       0.1000
+ 00 00 00: max_normalized_image_perc    :      99.9000
+ 00 00 00: nrs_bytes_per_pixel          :            2            2
+ 00 00 00: pixel_maxima                 :         4095         4095
+ 00 00 00: snr_maxima                   :     600.0000     600.0000
+ 00 00 00: snr_safety_factors           :       2.5000       2.5000
+ 00 00 00: acq_gamma                    :   42577.4688
+ 01 00 00: stack_reverse                :            0
+ 01 00 00: stack_slice_number           :            1
+ 00 00 00: enable_immed_averaging       :            1
+ 00 00 00: max_average_length           :            3
+ 00 00 00: relative_fear_bandwidth      :       0.1000
+ 00 00 00: shutter_type                 :            2
+ 01 00 00: part_filt_multi_d_widths     :       0.5000       0.0000       0.0000       0.0000
+ 01 00 00: part_filt_multi_d_shifts     :       0.5000       0.0000       0.0000       0.0000
+ 01 00 00: part_filt_lpc_widths         :       0.5000       0.0000       0.0000
+ 01 00 00: part_filt_lpc_shifts         :       0.5000       0.0000       0.0000
+ 00 00 00: enable_uniform_scaling       :            1
+ 00 00 00: enable_profile_ordering      :            1
+ 00 00 00: save_raw_data                :            1
+ 00 00 00: memory_allowed_space         :        15991
+ 00 00 00: memory_scheme_index          :           18
+ 00 00 00: enable_jdb_detection         :            1
+ 00 00 00: enable_jdb_suppression       :            1
+ 00 00 00: jdb_threshold_1              :          100
+ 00 00 00: jdb_threshold_2              :          500
+ 00 00 00: enable_synco_bo_reduction    :            1
+ 00 00 00: synco_wbln_smooth_window     :            3
+ 00 00 00: enable_synco_rca_reduction   :            1
+ 00 00 00: synco_chb_smooth_window      :          129          129
+ 00 00 00: synco_anti_rca_power         :       3.0000
+ 00 00 00: enable_frc                   :            1
+ 00 00 00: enable_frc_receiver          :            1
+ 00 00 00: enable_frc_ampl_corr         :            1
+ 00 00 00: frc_resolution               :         2048
+ 00 00 00: frc_oversample_noise_factor  :           48
+ 00 00 00: enable_dc_offset_corr        :            1
+ 00 00 00: dc_fixed_nr_samples          :            1
+ 00 00 00: dc_min_encoding_number       :         -207
+ 00 00 00: dc_max_encoding_number       :          207
+ 01 00 00: noise_clip_factors           :       1.1500
+ 01 00 01: noise_rel_to_abs_channels    :            0            0            0            0
+ 05 00 01: noise_rel_to_abs_channels    :            0            0            0            0
+ 09 00 01: noise_rel_to_abs_channels    :            0            0            0            0
+ 01 00 00: pat_post_coil_position       :       0.0000       0.0000       0.0000
+ 00 00 00: image_uniformity             :            1
+ 00 00 00: coca_qbc_nr_channels         :            1
+ 00 00 00: kt_recon_mode                :            1
+ 00 00 00: kt_time_type                 :            0
+ 00 00 00: kt_inter_training            :            0
+ 00 00 00: kt_auto_calibration          :            0
+ 00 00 00: kt_autocal_clear             :            0
+ 00 00 00: kt_training_plug_in          :            0
+ 00 01 00: kt_sample_matrix             :            0            0            0
+ 00 02 00: kt_sample_matrix             :            0            0            0
+ 00 03 00: kt_sample_matrix             :            0            0            1
+ 00 00 00: kt_regul_factor              :       1.0000
+ 00 00 00: kt_prior_offset              :       0.0000
+ 01 00 00: coca_acq_numbers             :         1000
+ 01 00 00: coca_rec_numbers             :            2
+ 01 00 00: coca_nr_channels             :           15
+ 01 00 00: coca_syn_stacks              :            0
+ 01 00 00: coca_qbc_stacks              :            1
+ 00 00 00: coca_max_recon_resolutions   :          160          160          150
+ 00 00 00: coca_max_stacks              :            2
+ 00 00 00: coca_data_compress_factor    :            4
+ 00 00 00: sense_factors                :       1.0000       3.0000       1.0000
+ 00 00 00: sense_extra_ovs_factors      :       1.0000       1.5000       1.0000
+ 00 00 00: sense_ovs_mask               :            1
+ 00 00 00: sense_enable_noise_decorr    :            1
+ 00 00 00: sense_mpr_interpol_method    :            1
+ 00 00 00: sense_optimization_method    :            0
+ 00 00 00: csm_reg_kernel_mm            :       0.0000
+ 00 00 00: csm_reg_snr_level            :       0.0000
+ 00 00 00: csm_extrapol_b0_threshold    :       0.0000       0.0000       0.0000
+ 00 00 00: csm_stab_div_value           :       0.0000
+ 00 00 00: sense_localized_maf_factor   :       0.0000
+ 00 00 00: sense_regul_factor           :       1.4100
+ 00 00 00: sense_regul_power_lowsig     :       1.0000
+ 00 00 00: sense_regul_power_highsig    :       2.0000
+ 00 00 00: sense_regul_power_threshold  :       0.0000
+ 00 00 00: sense_profile_regu           :            0
+ 00 00 00: sense_profile_regu_max       :       1.0000
+ 00 00 00: sense_profile_regu_power     :       0.0000
+ 00 00 00: sense_output_image           :            0
+ 00 00 00: coca_to_csm_factor           :       0.7500
+ 00 00 00: adapt_clear_factor           :       0.4000
+ 00 00 00: adapt_clear_power            :       3.0000
+ 01 00 00: water_fat_shift              :       0.0000
+ 00 00 00: qmet_log_enable              :            1
+ 00 00 00: geometry_correction          :            1
+ 00 00 00: geom_corr_enable_b0_corr     :            0
+ 00 00 00: geom_corr_type               :            0
+ 00 00 00: geom_corr_interpol_method    :            4
+ 00 00 00: geom_corr_sel_intensity_corr :            0
+ 00 00 00: geom_corr_max_distortion     :      72.0000
+ 00 00 00: geom_corr_b0_ref_radius      :     350.0000
+ 00 00 00: sel_intensity_corr_threshold :       8.0000
+ 01 01 03: geom_corr_b0_field_coeffs    :   3.9755e-01
+ 01 01 05: geom_corr_b0_field_coeffs    :  -2.6060e-01
+ 01 01 07: geom_corr_b0_field_coeffs    :   1.7649e-01
+ 01 01 09: geom_corr_b0_field_coeffs    :   1.7343e-01
+ 01 01 11: geom_corr_b0_field_coeffs    :  -2.9287e+02
+ 01 01 13: geom_corr_b0_field_coeffs    :  -2.3363e+03
+ 01 01 15: geom_corr_b0_field_coeffs    :   2.6100e+03
+ 01 01 17: geom_corr_b0_field_coeffs    :  -1.4562e+03
+ 01 01 19: geom_corr_b0_field_coeffs    :   5.3839e+02
+ 01 01 21: geom_corr_b0_field_coeffs    :  -1.3934e+02
+ 01 01 23: geom_corr_b0_field_coeffs    :   2.4967e+01
+ 01 01 25: geom_corr_b0_field_coeffs    :  -5.9975e+00
+ 01 01 27: geom_corr_b0_field_coeffs    :   5.8473e+00
+ 01 01 29: geom_corr_b0_field_coeffs    :  -5.5923e+00
+ 01 01 31: geom_corr_b0_field_coeffs    :   3.9596e+00
+ 00 00 00: geom_corr_gx_ref_radius      :     300.0000
+ 01 01 02: geom_corr_gx_field_c_coeffs  :       0.0000    3000.0000
+ 01 01 04: geom_corr_gx_field_c_coeffs  :       0.0000    -383.9120       0.0000      -0.3344
+ 01 01 06: geom_corr_gx_field_c_coeffs  :       0.0000    -193.4600       0.0000      -0.0582
+ 05 01 06: geom_corr_gx_field_c_coeffs  :       0.0000      -0.0032
+ 01 01 08: geom_corr_gx_field_c_coeffs  :       0.0000      87.7959       0.0000      -0.1199
+ 05 01 08: geom_corr_gx_field_c_coeffs  :       0.0000       0.0026       0.0000      -0.0000
+ 01 01 10: geom_corr_gx_field_c_coeffs  :       0.0000      -1.7885       0.0000       0.0799
+ 05 01 10: geom_corr_gx_field_c_coeffs  :       0.0000      -0.0003       0.0000      -0.0000
+ 09 01 10: geom_corr_gx_field_c_coeffs  :       0.0000      -0.0000
+ 01 01 12: geom_corr_gx_field_c_coeffs  :       0.0000     -12.4164       0.0000      -0.0288
+ 05 01 12: geom_corr_gx_field_c_coeffs  :       0.0000       0.0000       0.0000       0.0000
+ 09 01 12: geom_corr_gx_field_c_coeffs  :       0.0000       0.0000
+ 01 01 14: geom_corr_gx_field_c_coeffs  :       0.0000       4.7384       0.0000       0.0071
+ 05 01 14: geom_corr_gx_field_c_coeffs  :       0.0000       0.0000       0.0000       0.0000
+ 09 01 14: geom_corr_gx_field_c_coeffs  :       0.0000      -0.0000
+ 00 00 00: geom_corr_gy_ref_radius      :     300.0000
+ 01 01 02: geom_corr_gy_field_s_coeffs  :       0.0000    3000.0005
+ 01 01 04: geom_corr_gy_field_s_coeffs  :       0.0000    -371.6180       0.0000      -0.8291
+ 01 01 06: geom_corr_gy_field_s_coeffs  :       0.0000    -182.7238       0.0000      -0.0654
+ 05 01 06: geom_corr_gy_field_s_coeffs  :       0.0000      -0.0001
+ 01 01 08: geom_corr_gy_field_s_coeffs  :       0.0000      67.8186       0.0000      -0.1029
+ 05 01 08: geom_corr_gy_field_s_coeffs  :       0.0000       0.0019       0.0000       0.0000
+ 01 01 10: geom_corr_gy_field_s_coeffs  :       0.0000       6.2165       0.0000       0.0713
+ 05 01 10: geom_corr_gy_field_s_coeffs  :       0.0000      -0.0001       0.0000      -0.0000
+ 09 01 10: geom_corr_gy_field_s_coeffs  :       0.0000      -0.0000
+ 01 01 12: geom_corr_gy_field_s_coeffs  :       0.0000      -6.1033       0.0000      -0.0251
+ 05 01 12: geom_corr_gy_field_s_coeffs  :       0.0000      -0.0001       0.0000       0.0000
+ 09 01 12: geom_corr_gy_field_s_coeffs  :       0.0000       0.0000
+ 01 01 14: geom_corr_gy_field_s_coeffs  :       0.0000      -8.0630       0.0000       0.0058
+ 05 01 14: geom_corr_gy_field_s_coeffs  :       0.0000       0.0000       0.0000       0.0000
+ 00 00 00: geom_corr_gz_ref_radius      :     300.0000
+ 01 01 02: geom_corr_gz_field_coeffs    :    3000.0000
+ 01 01 04: geom_corr_gz_field_coeffs    :    -768.4583
+ 01 01 06: geom_corr_gz_field_coeffs    :    -764.2917
+ 01 01 08: geom_corr_gz_field_coeffs    :     755.5968
+ 01 01 10: geom_corr_gz_field_coeffs    :    -366.9190
+ 01 01 12: geom_corr_gz_field_coeffs    :     110.6504
+ 01 01 14: geom_corr_gz_field_coeffs    :      -6.5945
+ 01 01 16: geom_corr_gz_field_coeffs    :     -30.9301
+ 00 00 00: geom_corr_validity_radius    :     300.0000
+ 01 00 00: geom_corr_max_overs_facs     :       1.0800       1.0800       1.0000
+ 00 00 00: geom_corr_min_valid_jacobian :       0.1429
+ 00 00 00: geom_corr_max_valid_jacobian :       7.0000
+ 00 00 00: apt_processing               :            0
+ 00 00 00: felix_version                :            1
+ 00 00 00: felix_strength_coarse        :           55
+ 00 00 00: felix_strength_fine          :           55
+ 00 00 00: felix_enhancement            :           60
+ 00 00 00: felix_noise_correction       :          100
+ 
+ Reconstruction parameters dependent of mix:
+ 
+ 01 00 00: sequence_types               :            2
+ 01 00 00: nr_dynamic_scans             :            1
+ 01 00 00: nr_cardiac_phases            :            1
+ 01 00 00: nr_echoes                    :            1
+ 01 00 00: nr_locations                 :            3
+ 01 00 00: nr_rows                      :            1
+ 01 00 00: nr_extra_attr_values         :            1
+ 01 00 00: nr_measurements              :            2
+ 01 00 00: encoding_dimensions          :            2
+ 01 00 00: encoded_properties           :            0            1            2            4
+ 01 00 00: recon_resolutions            :          512          512            1            1
+ 01 00 00: output_resolutions           :          512          512            1            1
+ 01 00 00: complex_disk_output_images   :            4
+ 01 00 00: complex_hidden_output_images :            0
+ 01 00 00: complex_view_output_images   :            4
+ 01 00 00: repetition_times             :     159.9999
+ 01 00 00: inversion_delays             :       0.0000       0.0000
+ 01 00 00: shutter_radiuses             :     235.0000     235.0000     225.0000
+ 01 00 00: shutter_box_sizes            :     450.0000     450.0000     450.0000
+ 01 00 00: voxel_sizes                  :       0.4492       0.4492       5.0000
+ 01 00 00: ph_recon_resolutions         :          512
+ 
+ Reconstruction parameters dependent of mix and echo:
+ 
+ 01 01 00: min_encoding_numbers         :          -83          -77            0            0
+ 01 01 00: max_encoding_numbers         :          331           77            0            0
+ 01 01 00: oversample_factors           :       2.0000       1.5000       1.0000       1.0000
+ 01 01 00: spectrum_signs               :            1            1            1            1
+ 01 01 00: spectrum_origins             :            0         -128            0            0
+ 01 01 00: filter_types                 :            1            1            0            0
+ 01 01 00: filter_widths                :       0.7000       0.7000       0.0000       0.0000
+ 01 01 00: filter_lifts                 :       0.3000       0.3000       0.0000       0.0000
+ 01 01 00: elliptical_filter_types      :            1
+ 01 01 00: elliptical_filter_widths     :       0.9700       0.9700       0.9700       0.0000
+ 01 01 00: elliptical_filter_lifts      :       0.9900
+ 01 01 00: echo_times                   :       4.6051
+ 01 01 00: partial_matrix_filters       :            3            0            0            0
+ 01 01 00: ph_min_encoding_numbers      :          -83            0
+ 01 01 00: ph_max_encoding_numbers      :          331            0
+ 01 01 00: ph_oversample_factors        :       2.0000
+ 01 01 00: ph_spectrum_signs            :            1
+ 01 01 00: ph_spectrum_origins          :            0
+ 
+ Reconstruction parameters dependent of mix and location:
+ 
+ 01 00 01: in_plane_transformations     :            5
+ 01 00 01: slice_orientations           :            0
+ 01 00 01: location_center_coordinates  :       0.0000       0.0000      25.0000
+ 01 01 01: location_matrices            :       1.0000       0.0000       0.0000
+ 01 02 01: location_matrices            :       0.0000       1.0000       0.0000
+ 01 03 01: location_matrices            :       0.0000       0.0000      -1.0000
+ 01 00 02: in_plane_transformations     :            5
+ 01 00 02: slice_orientations           :            0
+ 01 00 02: location_center_coordinates  :       0.0000       0.0000       0.0000
+ 01 01 02: location_matrices            :       1.0000       0.0000       0.0000
+ 01 02 02: location_matrices            :       0.0000       1.0000       0.0000
+ 01 03 02: location_matrices            :       0.0000       0.0000      -1.0000
+ 01 00 03: in_plane_transformations     :            5
+ 01 00 03: slice_orientations           :            0
+ 01 00 03: location_center_coordinates  :       0.0000       0.0000     -25.0000
+ 01 01 03: location_matrices            :       1.0000       0.0000       0.0000
+ 01 02 03: location_matrices            :       0.0000       1.0000       0.0000
+ 01 03 03: location_matrices            :       0.0000       0.0000      -1.0000
+ 
+ Reconstruction parameters dependent of stack or location:
+ 
+ 00 00 00: nr_channel_names             :           13
+ 01 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E02
+ 02 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E03
+ 03 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E04
+ 04 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E06
+ 05 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E07
+ 06 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E08
+ 07 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E10
+ 08 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E12
+ 09 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E13
+ 10 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E14
+ 11 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E15
+ 12 00 00: channel_names                : _CI_TOP_DCC1/HEADTOP_16_NVS2_ACI.E16
+ 13 00 00: channel_names                : _ConnQBC/BODY_QUAD.E1
+ 01 00 00: receiving_coils              : HEADTOP_16_NVS2_
+ 01 00 00: receive_coil_types           :            3
+ 01 00 00: quad_receive_coils           :            0
+ 01 00 00: receiver_nrs                 :            0            0            0            0
+ 05 00 00: receiver_nrs                 :            0            0            0            0
+ 09 00 00: receiver_nrs                 :            0            0            0            0
+ 13 00 00: receiver_nrs                 :            0
+ 01 00 00: nr_measured_channels         :           12
+ 01 00 00: ph_nr_measured_channels      :            1
+ 01 00 01: measured_channels            :            0            1            2            3
+ 05 00 01: measured_channels            :            4            5            6            7
+ 09 00 01: measured_channels            :            8            9           10           11
+ 01 00 01: ph_measured_channels         :           12
+ 00 00 00: nr_groups                    :            5
+ 01 00 00: nr_measured_channels_per_gro :           12            1            1            1
+ 05 00 00: nr_measured_channels_per_gro :            0
+ 01 00 01: measured_channels_per_group  :            0            1            2            3
+ 05 00 01: measured_channels_per_group  :            4            5            6            7
+ 09 00 01: measured_channels_per_group  :            8            9           10           11
+ 01 00 02: measured_channels_per_group  :           12
+ 01 00 03: measured_channels_per_group  :           12
+ 01 00 04: measured_channels_per_group  :           12
+ 01 00 01: channel_combinations         : 111111111111
+ 01 00 00: sense_test_channels          :            0
+ 
+ Reconstruction parameters dependent of mix, echo and location:
+ 
+ 01 01 01: zeroth_phase_errors          :       0.0000
+ 01 01 01: first_phase_errors           :       0.0000       0.0000       0.0000       0.0000
+ 01 01 01: geom_corr_inv_eff_grads      :       0.5335       0.0000       0.1051
+ 01 01 02: zeroth_phase_errors          :       0.0000
+ 01 01 02: first_phase_errors           :       0.0000       0.0000       0.0000       0.0000
+ 01 01 02: geom_corr_inv_eff_grads      :       0.5335       0.0000       0.1051
+ 01 01 03: zeroth_phase_errors          :       0.0000
+ 01 01 03: first_phase_errors           :       0.0000       0.0000       0.0000       0.0000
+ 01 01 03: geom_corr_inv_eff_grads      :       0.5335       0.0000       0.1051
+ 
+ Reconstruction parameters for database storage of images:
+ 
+ 00 00 00: scan_resolutions             :          332          310            1            1
+ 01 00 00: flip_angles                  :      80.0000
+ 00 00 00: slice_thickness              :       5.0000
+ 01 00 00: spacing_between_slices_arr   :      25.0000
+ 01 01 00: acquisition_contrasts        :            7
+ 00 00 01: location_phase_enc_dirs      :            0
+ 00 00 01: loc_ap_rl_fh_row_image_oris  :       0.0000       1.0000       0.0000
+ 00 00 01: loc_ap_rl_fh_col_image_oris  :       1.0000       0.0000       0.0000
+ 00 00 01: loc_ap_rl_fh_offcentres      :       0.0000       0.0000     -25.0000
+ 00 00 01: ap_rl_fh_ovs_offcentres      :       0.0000       0.0000       0.0000
+ 00 00 02: location_phase_enc_dirs      :            0
+ 00 00 02: loc_ap_rl_fh_row_image_oris  :       0.0000       1.0000       0.0000
+ 00 00 02: loc_ap_rl_fh_col_image_oris  :       1.0000       0.0000       0.0000
+ 00 00 02: loc_ap_rl_fh_offcentres      :       0.0000       0.0000       0.0000
+ 00 00 02: ap_rl_fh_ovs_offcentres      :       0.0000       0.0000       0.0000
+ 00 00 03: location_phase_enc_dirs      :            0
+ 00 00 03: loc_ap_rl_fh_row_image_oris  :       0.0000       1.0000       0.0000
+ 00 00 03: loc_ap_rl_fh_col_image_oris  :       1.0000       0.0000       0.0000
+ 00 00 03: loc_ap_rl_fh_offcentres      :       0.0000       0.0000      25.0000
+ 00 00 03: ap_rl_fh_ovs_offcentres      :       0.0000       0.0000       0.0000
+ 
