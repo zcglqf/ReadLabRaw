@@ -16,12 +16,9 @@ Syntax:
 
 Remarks:
 For special scans, you may need to slightly modify the program to run it through. The special scans include:
-  CoilSurveyScan
-  
-  SenseRefScan
-  
-  Spectroscopy Scan
-  
+  CoilSurveyScan  
+  SenseRefScan  
+  Spectroscopy Scan  
   None Cartesian Scan
 
 MATLAB Version: 8.0.0.783 (R2012b)
